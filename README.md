@@ -32,7 +32,7 @@
 ## 📁 projects
 
 **[AituSchedule](https://github.com/ANAYSSA/AituSchedule)**
-Сайт для просмотра свободных аудиторий в AITU. Сделал потому что было нужно — теперь пользуются однокурсники.
+Сайт для просмотра свободных аудиторий в AITU.
 `HTML / JavaScript`
 
 **[JPEG → PNG Converter](https://github.com/ANAYSSA)**
