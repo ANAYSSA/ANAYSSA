@@ -31,9 +31,7 @@
 
 ## 📁 projects
 
-**[AituSchedule](https://github.com/ANAYSSA/AituSchedule)**
-Сайт для просмотра свободных аудиторий в AITU.
-`HTML / JavaScript`
+
 
 **[JPEG → PNG Converter](https://github.com/ANAYSSA)**
 Python скрипт для конвертации изображений. Просто и работает — batch обработка папок.
